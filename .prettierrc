@@ -1,0 +1,12 @@
+{
+  "htmlWhitespaceSensitivity": "ignore",
+  "singleQuote": true,
+  "jsxBracketSameLine": false,
+  "bracketSameLine": false,
+  "printWidth": 120,
+  "jsxSingleQuote": false,
+  "quoteProps": "consistent",
+  "trailingComma": "all",
+  "semi": false,
+  "singleAttributePerLine": true
+}
